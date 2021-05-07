@@ -9,7 +9,7 @@
   "author": "Aaditya AJ(ethic0)",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.21",
     "yargs": "^4.7.1"
   }
 }
